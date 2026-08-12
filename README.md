@@ -55,6 +55,10 @@ mean	50.319	74.906	0.942	-3.109
 seasonal_naive_daily	86.959	129.232	1.628	64.013
 naive	250.640	258.820	4.692	247.763
 drift	266.373	274.611	4.986	264.501
+
+
+
+
 Visualizations
 Multi-Model Forecast Comparison
 Installation & Usage
